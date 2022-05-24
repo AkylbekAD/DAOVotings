@@ -9,7 +9,7 @@ import "solidity-coverage";
 import "hardhat-gas-reporter"
 import "hardhat-contract-sizer"
 
-// import "./tasks/Marketplace.tasks"
+import "./tasks/DAOVotings.tasks"
 
 dotenv.config();
 
